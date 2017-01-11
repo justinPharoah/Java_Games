@@ -2,6 +2,9 @@
  * Created by justinferrell on 12/31/16.
  */
 
+//PROTOTYPE NOTICE: THIS IS AN EXPERIMENTAL AND UNFINISHED GAME OF TIC TAC TOE.
+//FULLY FUNCTIONAL AND REFURBISHED GAME EXPERIENCE COMING SOON.
+
 import javafx.animation.KeyFrame;
 import javafx.animation.KeyValue;
 import javafx.animation.Timeline;
