@@ -1,6 +1,11 @@
 /**
  * Created by justinferrell on 12/16/16.
  */
+/*
+This program runs a simple Sonic-Themed Menu Screen. It features basic buttons, 
+a Sonic background, and the Sonic theme song when run.
+*/
+
 import com.sun.tools.javadoc.Start;
 import javafx.animation.FadeTransition;
 import javafx.animation.TranslateTransition;
